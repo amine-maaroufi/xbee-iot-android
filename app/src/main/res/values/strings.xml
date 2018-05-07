@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Iot Xbee application</string>
+    <declare-styleable name="Thermometer">
+        <attr name="radius" format="dimension" />
+        <attr name="outerColor" format="color" />
+        <attr name="middleColor" format="color" />
+        <attr name="innerColor" format="color" />
+    </declare-styleable>
+</resources>
